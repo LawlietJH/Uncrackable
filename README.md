@@ -2,7 +2,7 @@
 Generador de contraseñas indecifrables a partir de una contraseña fácil de recordar. Es más simple recordar una contraseña y con ello 
 generar Contraseñas Fuertes. Con los mismos parametros, siempre generaremos las mismas palabras.
 
-Para esto, utilizando la función 'getUncrackablePasswords' permite a partir de una contraseña fácil de recordar, una cantidad infinita de contraseñas fuertes. 
+Para esto, utilizando la función 'getUncrackablePasswords' permite a partir de una contraseña fácil de recordar generar una cantidad infinita de contraseñas fuertes. 
 Con los mismos parámetros, siempre se generan las misma contraseñas fuertes, esto permite poder guardar la fácil y siempre generar las 
 contraseñas fuertes para su uso diario.
 
