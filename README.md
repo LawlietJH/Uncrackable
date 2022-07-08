@@ -9,7 +9,7 @@ contraseñas fuertes para su uso diario.
 ## Ejemplos de Uso:
 
 ```Python
-uncrkPwd = getUncrackablePasswords
+from uncrackable import getUncrackablePasswords as uncrkPwd
 
 passwd = uncrkPwd('contraseñaFacil123', out_json=True)
 print(passwd)
