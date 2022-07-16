@@ -6,6 +6,8 @@ Para esto, utilizando la función 'getUncrackablePasswords' permite a partir de 
 Con los mismos parámetros, siempre se generan las misma contraseñas fuertes, esto permite poder guardar la fácil y siempre generar las 
 contraseñas fuertes para su uso diario.
 
+## v1.0.0
+
 ## Ejemplos de Uso:
 
 ```Python
